@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BonialApp</string>
+    <string name="unknown_error">An error occurred, please try again later</string>
+</resources>
